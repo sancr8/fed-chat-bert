@@ -32,8 +32,8 @@ You can install the required Python packages using the `requirements.txt` file.
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/federated-learning.git
-cd federated-learning
+git clone https://github.com/pli-research-d/fed-chat-bert
+cd fed-chat-bert
 ```
 
 2. Create a virtual environment (optional but recommended):
